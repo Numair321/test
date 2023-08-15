@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" alt="Blue Circle" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="175" height="175" />
@@ -132,3 +133,6 @@ The UI will look something like this:
 
 
 <hr>
+=======
+# test
+>>>>>>> 9e6fd7e8b54c033f1afc73135d6d98a8b185931d
